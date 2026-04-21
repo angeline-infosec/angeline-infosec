@@ -66,4 +66,5 @@ CISCO CCNA — BlueShell Technologies
 - Practicing log analysis & alert triage
 - Improving detection and response workflows
 - Strengthening Linux fundamentals
+- Working on SOC projects
 - Expanding SOC lab exposure
