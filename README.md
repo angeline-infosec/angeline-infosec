@@ -47,12 +47,15 @@ CISCO CCNA — BlueShell Technologies
 
 ## Projects
 - Wazuh SIEM Deployment & Log Monitoring Lab
+  
   Deployed Wazuh for centralized log collection and alert monitoring in a lab environment
   
 - Enterprise Network Simulation & Security Implementation (CCNA Lab)
+  
   Designed and configured a segmented enterprise network using Packet Tracer
 
 - Blind Email System – Secure Communication Design (Team Contribution)
+  
   Collaborated in designing and documenting a secure email platform integrating speech-to-text functionality, user authentication, and access control mechanisms.
 
 ## Labs & Practice 
