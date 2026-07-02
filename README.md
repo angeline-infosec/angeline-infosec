@@ -1,5 +1,5 @@
 ## Hi there, I'm Angeline 👋🏻
-### Kerala, India · CCNA Certified · SOC Analyst (Tier 1) Track
+### Kerala, India · CCNA Certified · CICSA Certified · SOC Analyst (Tier 1) Track
 
 
 <a href="https://www.linkedin.com/in/angeline-marietta-charley/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:angiemarie@gmail.com">
@@ -11,7 +11,7 @@
 
 I'm a CCNA-certified IT graduate transitioning into Security Operations. Building hands-on experience across SIEM deployment, endpoint forensics, and threat detection through structured lab work and platform-based investigations.
 
-Actively pursuing EC-Council CSA v2 and RedTeamHacker Academy's CICSA certifications. 
+Actively pursuing EC-Council CSA v2 and ISC2 CC certifications.
 
 Active on TryHackMe and LetsDefend. Targeting entry-level SOC Analyst (Tier 1) roles.
 
