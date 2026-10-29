@@ -1,5 +1,5 @@
 ## Hi there, I'm Angeline 👋🏻
-### Kerala, India · CCNA Certified · CICSA Certified · SOC Analyst (Tier 1) Track
+### Kerala, India · CCNA Certified · CICSA Certified · SOC Analyst
 
 
 <a href="https://www.linkedin.com/in/angeline-marietta-charley/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:angiemarie@gmail.com">
